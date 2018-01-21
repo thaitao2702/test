@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\dotnet\test1\bin\Debug\netcoreapp2.0\test1.deps.json
+C:\Users\Admin\Desktop\dotnet\test1\bin\Debug\netcoreapp2.0\test1.runtimeconfig.json
+C:\Users\Admin\Desktop\dotnet\test1\bin\Debug\netcoreapp2.0\test1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\dotnet\test1\bin\Debug\netcoreapp2.0\test1.dll
+C:\Users\Admin\Desktop\dotnet\test1\bin\Debug\netcoreapp2.0\test1.pdb
+C:\Users\Admin\Desktop\dotnet\test1\obj\Debug\netcoreapp2.0\test1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dotnet\test1\obj\Debug\netcoreapp2.0\test1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dotnet\test1\obj\Debug\netcoreapp2.0\test1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dotnet\test1\obj\Debug\netcoreapp2.0\test1.dll
+C:\Users\Admin\Desktop\dotnet\test1\obj\Debug\netcoreapp2.0\test1.pdb
